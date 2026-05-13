@@ -21,8 +21,9 @@ export function CTASection() {
           </p>
           <div className="flex flex-wrap justify-center gap-4 mb-12">
             <a
-              href="/DERVISION.rar"
-              download
+              href="https://drive.google.com/file/d/1RUCY0KcWvp3NVHYgenFPyUyxz2JSL4kh/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2.5 px-7 py-3.5 bg-accent text-white rounded-xl font-medium text-sm hover:bg-accent-dim transition-colors duration-200"
             >
               Download for Windows

@@ -95,8 +95,9 @@ export function HeroSection() {
             <FadeIn delay={0.3}>
               <div className="flex flex-wrap gap-4">
                 <a
-                  href="/DERVISION.rar"
-                  download
+                  href="https://drive.google.com/file/d/1RUCY0KcWvp3NVHYgenFPyUyxz2JSL4kh/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2.5 px-7 py-3.5 bg-primary text-white rounded-xl font-medium text-sm hover:bg-primary-container transition-colors duration-200 ambient-shadow"
                 >
                   Download for Windows

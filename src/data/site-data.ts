@@ -38,7 +38,7 @@ export const features = [
   {
     title: "Lightweight Desktop App",
     description:
-      "Packaged as a standalone desktop software using PyInstaller. Minimal resource usage.",
+      "Packaged as a standalone desktop software. Minimal resource usage.",
     icon: "Laptop" as const,
   },
   {
@@ -56,7 +56,7 @@ export const features = [
   {
     title: "User-Friendly Interface",
     description:
-      "Clean and intuitive CustomTkinter UI designed for ease of use by both professionals and general users.",
+      "Clean and intuitive UI designed for ease of use by both professionals and general users.",
     icon: "Layout" as const,
   },
   {
